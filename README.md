@@ -36,3 +36,6 @@ I wanted an open platform for sharing as well as contributing, and it seemed muc
 <b>How do I contribute?</b>
 Experienced graduate students, postdocs, faculty, researchers, etc. are welcome to contribute, subject to some basic 'quality checking/editing' by the community of contributors.  All I require is that tutorials follow a basic format (templates are provided) to keep consistency of quality and 'branding' throughout.  More information on how to become a contributor will be forthcoming.  All tutorial files will be in PDF format, but the document source files will be in doc or docx (or whatever editable format) located in BiomechanicsBootcamp_sourcefiles repository.  Additionally, any line drawings or diagrams should also be provided in a format such as svg such that contributors can edit diagrams in Inkscape or a line art program of their choice.  
 
+<b>To do</b>
+*Figure out how to let others contribute
+*Correct fish robot problem, tutorial 0.
